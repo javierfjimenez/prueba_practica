@@ -1,2 +1,2 @@
-# prueba_practica
-prueba_practica
+# prueba_tecnica
+prueba_tecnica
